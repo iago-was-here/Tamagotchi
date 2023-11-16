@@ -1,0 +1,7 @@
+package interfaceMascote;
+
+public interface mascote {
+	String tipo;
+	int vidas;
+	int energia;
+}

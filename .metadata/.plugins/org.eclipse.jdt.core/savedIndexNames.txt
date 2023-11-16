@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\BMS\Desktop\Cursos\IF\PLP\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4070775214.index
+3983727569.index

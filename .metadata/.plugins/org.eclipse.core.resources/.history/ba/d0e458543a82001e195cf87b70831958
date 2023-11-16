@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author BMS
+ *
+ */
+module tamagotchi {
+}

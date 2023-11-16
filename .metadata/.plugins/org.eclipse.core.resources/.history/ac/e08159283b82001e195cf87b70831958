@@ -1,0 +1,5 @@
+package interfaceMascote;
+
+public interface mascote {
+	public void mascote();
+}
